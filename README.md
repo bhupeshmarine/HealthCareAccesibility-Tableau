@@ -1,1 +1,8 @@
-# HealthCare
+# Health Care Accesibility in the United States
+The United States has a population of over 330 million people and is supported by one of the most complex healthcare systems in the world, formed by intertwining relationships between providers, payers, and patients receiving care. The US healthcare system is in a constant state of evolution. The US healthcare system does not provide universal coverage and can be defined as a mixed system, where publicly financed government Medicare and Medicaid (discussed here) health coverage coexists with privately financed (private health insurance plans) market coverage. Out-of-pocket payments and market provision of coverage predominate as a means of financing and providing healthcare 
+
+Insured Americans are covered by both public and private health insurance, with a majority covered by private insurance plans through their employers.  Government-funded programs, such as Medicaid and Medicare, provide health care coverage to some vulnerable population groups. The government also publicly funds coverage through Indian Health Services and the military. 
+
+The U.S. spends far more public and private money combined on health care than any other OECD country – 16.4 percent of GDP in 2013 compared to the second-highest countries, the Netherlands and Switzerland at 11.1 percent of GDP. For context, Canada ranks 10th highest at an estimated 10.2 percent of GDP. 
+
+However, the amount spent on the system produces some positive outcomes for those well enough insured to benefit. The U.S. health care system has a large and well-trained workforce, including high-quality medical specialists, though at the expense of too few primary care generalists to meet demand. It also has excellent health care facilities and research programs. 
