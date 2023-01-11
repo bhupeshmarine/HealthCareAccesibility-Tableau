@@ -6,3 +6,4 @@ Insured Americans are covered by both public and private health insurance, with 
 The U.S. spends far more public and private money combined on health care than any other OECD country – 16.4 percent of GDP in 2013 compared to the second-highest countries, the Netherlands and Switzerland at 11.1 percent of GDP. For context, Canada ranks 10th highest at an estimated 10.2 percent of GDP. 
 
 However, the amount spent on the system produces some positive outcomes for those well enough insured to benefit. The U.S. health care system has a large and well-trained workforce, including high-quality medical specialists, though at the expense of too few primary care generalists to meet demand. It also has excellent health care facilities and research programs. 
+In this project my main objective is to identfy what are the main constraints for the global poor ranking of US heath care excessibility.
